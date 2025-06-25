@@ -1,0 +1,4 @@
+cd "C:\Users\Godhane computer\fitness_booking"
+git init
+git add .
+git commit -m "Initial commit with FastAPI fitness booking project"
